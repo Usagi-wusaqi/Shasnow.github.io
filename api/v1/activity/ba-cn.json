@@ -1,0 +1,37 @@
+{
+  "version": "2026-10",
+  "versionName": "国服活动",
+  "startTime": "2026-10-29T14:00:00",
+  "endTime": "2026-12-17T14:00:59",
+  "cover": "https://resource.starrailassistant.top/ba/activity/9166afb38aaebf5080ef5a7d35f2991bf14e7795.webp",
+  "activities": [
+    {
+      "name": "我等乃神秘学研究会！~学院之谜与古老咒文~",
+      "description": "",
+      "startTime": "2026-10-29T14:00:00",
+      "endTime": "2026-11-12T14:00:59",
+      "cover": "https://resource.starrailassistant.top/ba/activity/2a08964c368be7bc55ccca00bf228a1573f647f7.webp"
+    },
+    {
+      "name": "Sheside Outside",
+      "description": "",
+      "startTime": "2026-11-12T14:00:00",
+      "endTime": "2026-11-26T14:00:59",
+      "cover": "https://resource.starrailassistant.top/ba/activity/ceb594bb9650e98be778c5bcc55c9760e90f7216.webp"
+    },
+    {
+      "name": "为谁而存的艺术~赝品与美学的归宿~",
+      "description": "",
+      "startTime": "2026-11-26T14:00:00",
+      "endTime": "2026-12-17T14:00:59",
+      "cover": "https://resource.starrailassistant.top/ba/activity/121b69fc7b6a56f6ad3100591d717393420942b3.webp"
+    },
+    {
+      "name": "沙勒总决算",
+      "description": "",
+      "startTime": "2026-12-03T14:00:00",
+      "endTime": "2026-12-17T14:00:59",
+      "cover": "https://resource.starrailassistant.top/ba/activity/9166afb38aaebf5080ef5a7d35f2991bf14e7795.webp"
+    }
+  ]
+}

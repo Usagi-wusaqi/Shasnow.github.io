@@ -1,0 +1,25 @@
+{
+  "version": "2.11",
+  "versionName": "时光缝合的扉页",
+  "startTime": "2026-10-30T11:00:00",
+  "endTime": "2026-11-27T01:30:00",
+  "cover": "https://webstatic.papegames.com/5af052bffce5c899/images/bg/yxtMDTt0VBdwtIuR.jpg",
+  "activities": [
+    {
+      "name": "「给曾是孩子的你」限时联动活动",
+      "kind": "限时联动活动",
+      "description": "《无限暖暖》×《小王子》联动开启。探索联动区域收集奇想陨晶，可免费兑换联动家具设计图等奖励；完成联动风物任务与联动任务，累计免费获得联动共鸣道具【心上玫瑰】×100，并可在联动限时特别兑换中兑换名片、称号、拍照动作、动态表情等奖励。",
+      "startTime": "2026-09-24T11:00:00",
+      "endTime": "2026-11-27T03:49:59",
+      "cover": "https://webstatic.papegames.com/5af052bffce5c899/images/bg/PfpDqOmpXGmcHvVb.jpg"
+    },
+    {
+      "name": "【故事外的星空】限时联动系列关卡",
+      "kind": "限时联动活动",
+      "description": "2.11版本「时光缝合的扉页」限时联动系列关卡开启，完成可获取联动奖励。",
+      "startTime": "2026-10-30T11:00:00",
+      "endTime": "2026-11-27T01:29:59",
+      "cover": "https://webstatic.papegames.com/5af052bffce5c899/images/bg/tVzzvo1FAwI1FL3f.png"
+    }
+  ]
+}

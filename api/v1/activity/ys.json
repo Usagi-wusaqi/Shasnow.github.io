@@ -1,0 +1,51 @@
+{
+  "version": "7.2",
+  "versionName": "坏灭肇始之时",
+  "startTime": "2026-11-04T06:00:00",
+  "endTime": "2026-12-16T06:00:00",
+  "cover": "https://i0.hdslb.com/bfs/new_dyn/2e59edc3adb447b11b30b60d6c4ed8f1401742377.jpg",
+  "activities": [
+    {
+      "name": "砺行修远（第六期）",
+      "description": "纪行/成长系统第六期，含养成材料及奖励与自选五星命座馈赠。",
+      "startTime": "2026-11-02T04:00:00",
+      "endTime": "2027-01-25T03:59:59",
+      "cover": "https://sdk.hoyoverse.com/upload/ann/2026/03/04/9e61fb52eb6c278d1c0c354a4cc12047_5706720538292727403_transformed.png"
+    },
+    {
+      "name": "魔神任务「坏灭肇始之时」限时奖励",
+      "description": "时限内完成魔神任务，可获得原石*560、角色突破素材等奖励。",
+      "startTime": "2026-11-04T11:00:00",
+      "endTime": "2026-12-15T14:59:59",
+      "cover": "https://i0.hdslb.com/bfs/new_dyn/0810d052f9185ce47b3e1dfe7244720d401742377.png"
+    },
+    {
+      "name": "「晶石如林生长之地」区域探索限时奖励",
+      "description": "版本更新后开启全新至冬区域：新基捷城、如翼之峰，时限内完成探索任务可获得额外奖励：原石*400。",
+      "startTime": "2026-11-04T11:00:00",
+      "endTime": "2027-01-26T14:59:59",
+      "cover": ""
+    },
+    {
+      "name": "全域镇卫·逆捍谬罚",
+      "description": "参与驰援行动削减「圣土化」威胁，可自选邀请一名4星角色，还可获取原石、智识之冕等奖励。",
+      "startTime": "2026-11-04T11:00:00",
+      "endTime": "2026-12-16T05:59:59",
+      "cover": "https://i0.hdslb.com/bfs/new_dyn/1d86d0b8e9f6ebc3628ec43ee7b444a2401742377.png"
+    },
+    {
+      "name": "「相遇·悠久旅途之暇」千音雅集更新",
+      "description": "千音雅集新增专辑「相遇·悠久旅途之暇」，在时限内完成相应演奏任务，可获得额外原石奖励。",
+      "startTime": "2026-11-04T11:00:00",
+      "endTime": "2026-12-15T14:59:59",
+      "cover": ""
+    },
+    {
+      "name": "幽境危战",
+      "description": "组建三支队伍直面强敌，完成不同难度的挑战可获得原石、圣遗物道具「启圣之尘」等奖励。",
+      "startTime": "2026-11-11T10:00:00",
+      "endTime": "2026-12-15T03:59:59",
+      "cover": ""
+    }
+  ]
+}

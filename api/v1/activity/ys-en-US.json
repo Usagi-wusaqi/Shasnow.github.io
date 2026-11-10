@@ -1,0 +1,51 @@
+{
+  "version": "7.2",
+  "versionName": "Hour of Ruin",
+  "startTime": "2026-11-04T06:00:00",
+  "endTime": "2026-12-16T06:00:00",
+  "cover": "https://i0.hdslb.com/bfs/new_dyn/2e59edc3adb447b11b30b60d6c4ed8f1401742377.jpg",
+  "activities": [
+    {
+      "name": "To Temper Thyself and Journey Far",
+      "description": "Sixth edition of the Battle Pass growth system, containing character development materials, rewards, and a self-selected 5-star constellation gift.",
+      "startTime": "2026-11-02T04:00:00",
+      "endTime": "2027-01-25T03:59:59",
+      "cover": "https://sdk.hoyoverse.com/upload/ann/2026/03/04/9e61fb52eb6c278d1c0c354a4cc12047_5706720538292727403_transformed.png"
+    },
+    {
+      "name": "Archon Quest \"Hour of Ruin\" Limited-Time Rewards",
+      "description": "Complete the Archon Quest within the time limit to obtain Primogems x560, character enhancement materials, and more.",
+      "startTime": "2026-11-04T11:00:00",
+      "endTime": "2026-12-15T14:59:59",
+      "cover": ""
+    },
+    {
+      "name": "\"Where Kristall Roots Run Deep\" Area Exploration Limited-Time Rewards",
+      "description": "After the version update, new Snezhnaya areas will be unlocked. Complete exploration quests within the time limit for an additional reward of Primogems x400.",
+      "startTime": "2026-11-04T11:00:00",
+      "endTime": "2027-01-26T14:59:59",
+      "cover": ""
+    },
+    {
+      "name": "The Grand Defense: Defy the Unjust Judgment",
+      "description": "Join the relief efforts to reduce the Withering threat, choose to invite a 4-star character, and earn Primogems, Crowns of Insight, and more.",
+      "startTime": "2026-11-04T11:00:00",
+      "endTime": "2026-12-16T05:59:59",
+      "cover": "https://sdk.hoyoverse.com/upload/ann/2026/09/24/405a55b86e5074691d97521dc6c0d5e5_6814700333827861367_transformed.png"
+    },
+    {
+      "name": "Repertoire of Myriad Melodies Update - Encounter: Interlude of the Long Journey",
+      "description": "A new album \"A Meeting on a Long Journey\" is available in the music event. Complete the performance quests within the time limit to earn additional Primogems.",
+      "startTime": "2026-11-04T11:00:00",
+      "endTime": "2026-12-15T14:59:59",
+      "cover": ""
+    },
+    {
+      "name": "Perilous Realm Trials",
+      "description": "Form three teams to face powerful foes. Complete challenges of different difficulties to earn Primogems, Sanctifying Elixir, and more.",
+      "startTime": "2026-11-11T10:00:00",
+      "endTime": "2026-12-15T03:59:59",
+      "cover": ""
+    }
+  ]
+}

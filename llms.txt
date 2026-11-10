@@ -1,0 +1,65 @@
+# StarRailAssistant Public API
+
+Free, key-less public REST API serving current game version and in-game event data as JSON. Data is extracted from official game announcements and manually verified by the community. No signup or API key required.
+
+## Base URL
+
+```
+https://starrailassistant.top/api/v1
+```
+
+## Endpoints
+
+- `GET /activity/{game}.json` — activity data in the default locale (zh-CN), e.g. `/activity/sr.json`
+- `GET /activity/{game}-{locale}.json` — activity data in a specific locale, e.g. `/activity/sr-en-US.json`
+
+## Games
+
+| id         | game                      | 中文名             |
+| ---------- | ------------------------- | ------------------ |
+| `sr` | Honkai: Star Rail | 崩坏：星穹铁道 |
+| `ys` | Genshin Impact | 原神 |
+| `zzz` | Zenless Zone Zero | 绝区零 |
+| `ww` | Wuthering Waves | 鸣潮 |
+| `nte` | NTE | 异环 |
+| `ba-cn` | Blue Archive (CN) | 蔚蓝档案（国服） |
+| `ba-jp` | Blue Archive (JP) | 蔚蓝档案（日服） |
+| `ba-global` | Blue Archive (Global) | 蔚蓝档案（国际服） |
+| `ak` | Arknights | 明日方舟 |
+| `end` | Arknights: Endfield | 明日方舟：终末地 |
+| `xtlr` | Stella Sora | 星塔旅人 |
+| `infinitynikki` | Infinity Nikki | 无限暖暖 |
+| `gf2` | Girls' Frontline 2: Exilium | 少女前线2：追放 |
+| `pgr` | Punishing: Gray Raven | 战双帕弥什 |
+| `czn` | 卡厄斯梦境（国际服） | 卡厄斯梦境（国际服） |
+| `bd2` | Brown Dust 2 | 棕色尘埃2 |
+| `nikke` | Goddess of Victory: Nikke | NIKKE（国际服） |
+| `hyrz` | Naruto Mobile | 火影忍者 |
+
+## Response schema
+
+```json
+{
+  "version": "4.4",
+  "versionName": "version display name",
+  "startTime": "ISO 8601",
+  "endTime": "ISO 8601",
+  "cover": "optional image URL",
+  "activities": [
+    {
+      "name": "activity name",
+      "kind": "optional category",
+      "description": "activity description",
+      "startTime": "ISO 8601",
+      "endTime": "ISO 8601",
+      "cover": "optional image URL"
+    }
+  ]
+}
+```
+
+## Optional
+
+- Docs (zh-CN): https://starrailassistant.top/reference/public-api/
+- Docs (en-US): https://starrailassistant.top/en/reference/public-api/
+- Contribute: https://github.com/Shasnow/starrailassistant.top
